@@ -1,0 +1,23 @@
+{
+  "name": "takataka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioni5/takataka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioni5/takataka/issues"
+  },
+  "homepage": "https://github.com/ioni5/takataka#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
