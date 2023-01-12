@@ -1,3 +1,5 @@
 function sum(a,b){
-return a+b;
+const ans = a + b;
+console.log(ans);
+return ans;
 }
